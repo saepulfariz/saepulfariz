@@ -19,7 +19,7 @@ My Name is Saepul Hidayat, I am a student at the Faculty of Computer Science, In
 Welcome To My Profile !
 
 - 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently learning Python and Mvc
+- 🌱 I’m currently learning PHP and MVC Architecture
 - 📫 How to reach me: saepulhidayat302@gmail.com
 
 ### Here is my stats
